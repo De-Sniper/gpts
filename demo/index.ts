@@ -9,7 +9,7 @@ import * as fs from 'fs'; // needs "@types/node": "^14.14.37",
 import * as path from 'path';
 
 (async () => {
-	const openai_apiKey = ''; // "sk-123..."
+	const openai_apiKey = ''; // "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"
 	if (!openai_apiKey) {
 		console.error('no apiKey provided');
 		return;
